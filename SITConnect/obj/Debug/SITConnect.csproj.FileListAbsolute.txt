@@ -1,0 +1,120 @@
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\SITConnect.dll.config
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\SITConnect.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\SITConnect.pdb
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\csc.exe
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\csc.exe.config
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\csc.rsp
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\csi.exe
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\csi.rsp
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\System.AppContext.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\vbc.exe
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\vbc.exe.config
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\vbc.rsp
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\VBCSCompiler.exe
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Antlr3.Runtime.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Newtonsoft.Json.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.Optimization.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\WebGrease.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.Optimization.xml
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Newtonsoft.Json.xml
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Antlr3.Runtime.pdb
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\obj\Debug\SITConnect.csproj.CoreCompileInputs.cache
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\obj\Debug\SITConnect.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\obj\Debug\SITConnect.pdb
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\obj\Debug\SITConnect.csproj.AssemblyReference.cache
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.Helpers.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.Razor.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.WebPages.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.WebPages.Razor.dll
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.Helpers.xml
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.Razor.xml
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.WebPages.xml
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mehtab.a\source\repos\SITConnect\SITConnect\bin\System.Web.WebPages.Razor.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\SITConnect.dll.config
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\SITConnect.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\SITConnect.pdb
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\csc.exe
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\csc.exe.config
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\csc.rsp
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\csi.exe
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\csi.rsp
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\System.AppContext.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\vbc.exe
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\vbc.exe.config
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\vbc.rsp
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\VBCSCompiler.exe
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Antlr3.Runtime.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Newtonsoft.Json.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.Helpers.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.Optimization.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.Razor.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.WebPages.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.WebPages.Razor.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\WebGrease.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.Helpers.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.Razor.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.WebPages.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.WebPages.Razor.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\System.Web.Optimization.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Newtonsoft.Json.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Antlr3.Runtime.pdb
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\obj\Debug\SITConnect.csproj.AssemblyReference.cache
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\obj\Debug\SITConnect.csproj.CoreCompileInputs.cache
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\obj\Debug\SITConnect.dll
+C:\Users\desig\Documents\THERESA NYP\y2s2\AS\SITConnect\SITConnect\obj\Debug\SITConnect.pdb

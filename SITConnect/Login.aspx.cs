@@ -92,7 +92,7 @@ namespace SITConnect
                 da.Fill(dt);
                 if (dt.Rows.Count > 0)
                 {
-                    if (dt.Rows[0]["blockminutes"].ToString()=="True" && Convert.ToInt32(dt.Rows[0]["blockminutes"].ToString())<4)
+                    if (dt.Rows[0]["blockminutes"].ToString()=="True" && Convert.ToInt32(dt.Rows[0]["blockminutes"].ToString())<1)
                     {
                         ScriptManager.RegisterStartupScript(this, GetType(), "displayalertmessage", "ShowAccountMsg();", true);
                     }
@@ -127,7 +127,7 @@ namespace SITConnect
                     else
                     {
                      
-                        if (Convert.ToInt32(Session["counter"].ToString()) >= 3)
+                        if (Convert.ToInt32(Session["counter"].ToString()) >= 2)
                         {
                             SqlCommand cmd = new SqlCommand("update tblUsers set blocked=1,BlockDate='" + DateTime.Now.ToString("MM/dd/yyyy")+"' where email='" + txtEmail.Text+ "'",con);
                             if (cmd.ExecuteNonQuery() > 0)

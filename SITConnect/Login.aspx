@@ -26,7 +26,7 @@
         }
         function ShowAccountMsg() {
             $("#loginError").show();
-            $("#loginError").html("<span>Your Account is temporarily blocked for 4 minutes due to consective wrong attempts. Please contact admin. </span>");
+            $("#loginError").html("<span>Your Account is temporarily blocked for 1 minute due to consecutive wrong attempts. Please contact admin. </span>");
         }
         const validateEmail = (email) => {
             return String(email)

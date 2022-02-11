@@ -13,7 +13,7 @@
              var password = $("input[id*='txtPassword']").val();
 
              passwordChanged(password);
-           // var p = document.getElementById('newPassword').value,
+      
                 errors = [];
             if (password.length < 12) {
                 $("#passError").text("Your password must be at least 12 characters.");

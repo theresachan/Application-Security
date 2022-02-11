@@ -107,7 +107,7 @@ namespace SITConnect
             smtp.Host = "smtp.gmail.com";
             smtp.Port = 587;
             smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new System.Net.NetworkCredential("sapp6887@gmail.com", "Billiegates@77650");
+            smtp.Credentials = new System.Net.NetworkCredential(ConfigurationManager.AppSettings["Email"], ConfigurationManager.AppSettings["Password"]);
             smtp.EnableSsl = true;
             try
             {
